@@ -1,7 +1,8 @@
 
 
 def using_times(words)
-  puts words 7.times
+ 7.times
+ puts words 
   words = "Wingardium Leviosa"
 end
 
