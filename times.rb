@@ -2,7 +2,8 @@
 
 def using_times(words)
   puts words 7.times
+  words = "Wingardium Leviosa"
 end
 
 
-using_times('Wingardium Leviosa')
+using_times(words)
